@@ -1,5 +1,5 @@
 # Perfect Outline Shader In Unity
-## Just add a simple pass(less than 60 lines) to your own shader to achieve a perfect outline,which surrounding the object with equal width.  Also, it can keep the width unchanged on screen when the camera is zooming in and out.
+## Just add a simple pass(less than 60 lines) to your own shader to achieve a perfect outline, which surrounding the object with equal width.  Also, it can keep the width unchanged on screen when the camera is zooming in and out.
 
 ![image](https://github.com/blightue/Perfect-Outline-Shader-In-Unity/blob/master/OutlineNoText.png)
 ![image](https://github.com/blightue/Perfect-Outline-Shader-In-Unity/blob/master/OutlineNoTextBlue.png)
