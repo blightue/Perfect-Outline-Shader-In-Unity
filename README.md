@@ -6,4 +6,4 @@
 
 ## Go check the code in outline.shader, copy the "OUTLINESHADER" Pass to your SubShader, and don't forget the properties.
 
-如果你看不懂我的代码，这里 https://www.bilibili.com/video/av61885811/ 有一段介绍视频
+如果你看不懂我的代码，这里 https://www.bilibili.com/video/av62026859/ 有一段介绍视频
