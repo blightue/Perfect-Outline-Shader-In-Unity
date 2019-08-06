@@ -58,6 +58,6 @@ Shader "Toon/Toon Complete"
     
     Pass
     {
-      //Your own shader
+      //Your own shader pass
     }
 }
